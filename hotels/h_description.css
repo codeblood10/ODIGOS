@@ -1,0 +1,95 @@
+body{
+	margin: 0px auto;
+}
+
+p.hr {
+    margin: -24px 1px -11px;
+}
+
+p.power {
+    margin:  1px 2px -13px;
+}
+
+p.logo{
+	font-size: 45px;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+div.power{
+	font-size: 12px;
+	margin-bottom: 0;
+}
+
+#hr{
+    font-size:12px;
+}
+
+#partner{
+    color:peru;
+    font-family: initial;
+    padding-right:10px;
+}
+
+#map1{
+    color:peru;
+    font-family: initial;
+    padding-left:10px;
+}
+
+#hotel_name{
+	font-family: Impact, Charcoal, sans-serif;
+    color: white;
+    background-color:teal;
+    font-size: 38px;
+}
+
+.fill {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+}
+.fill img {
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: #080d15;
+}
+       
+#loc{
+    color:rebeccapurple;
+}
+
+#cn{
+    color:rebeccapurple;
+}
+
+#hps{
+    color:rebeccapurple;
+}
+
+#note{
+    color:red;
+} 
+
+#menu{
+	font-size:20px;
+	color:teal;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-image:url("h_img/foot0.jpg");
+	margin-top:2px;
+} 
+
+#footer{
+   background:url("h_img/footer.jpg");
+   height:100%;
+   margin-bottom:0px;
+}
+
+#contact {
+   font-size:35px;
+   text-shadow: 4px 4px 5px #000000;
+   color:gray;
+   margin-top: 3px;
+}             
