@@ -1,0 +1,59 @@
+body{
+    background:url("ab_img/tex3.jpg");
+}
+ 
+#odi{
+    margin-top: -90px;
+    font-size: 30px;
+    padding-left: 15px;
+    color: #2d53d2;
+    font-weight: bold;
+}
+
+#quote{
+   text-align : center;
+   font-size:30px;
+   color:white;
+   font-weight: bold;
+   font-family:'Pacifico';
+}
+
+#team {
+   font-size:63px;
+   font-weight:bold;
+   text-shadow: 8px 4px 5px #000000;
+   color:white;
+}
+.fill {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+}
+.fill img {
+    width: 240px;
+    height: 320px;
+    z-index: 2;
+    background-color: #080d15;
+	
+}
+#dev
+{color:white;
+}
+
+#name{
+    margin-top: -16px;
+}
+
+#follow{
+    margin-top: -4px;
+	padding-bottom: 15px;
+}
+
+#support{
+font-size:45px;
+font-weight:bold;
+text-shadow: 8px 4px 5px #000000;
+color:white;
+}
+
