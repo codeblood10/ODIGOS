@@ -1,0 +1,48 @@
+
+
+.fill {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+}
+.fill img {
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: #080d15;
+}
+   
+#show{
+    margin-top:1px;
+	background-image:url("sp_img/foot1.jpg");
+	margin-bottom:20px;
+}
+
+#head{
+        padding-bottom:1px;
+		padding-top:1px;
+		font-size:20px;
+} 
+
+#loc{
+    font-size:16px;
+}
+
+#desc{
+    padding-left:2px;
+	padding-right:2px;
+}
+
+#footer{
+   background:url("sp_img/footer4.jpg");
+   height:100%;
+   margin-bottom:0px;
+}
+
+#contact {
+   font-size:35px;
+   text-shadow: 4px 4px 5px #000000;
+   color:gray;
+   margin-top: 3px;
+}

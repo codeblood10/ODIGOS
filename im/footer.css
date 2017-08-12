@@ -1,0 +1,16 @@
+#foot{
+   background:url("footer.jpg");
+   height:190px;
+   margin-bottom:-16px;
+}
+#contact {
+   font-size:35px;
+   text-shadow: 4px 4px 5px #000000;
+   color:gray;
+   margin-top: 3px;
+}
+#footer{
+   background:url("footer4.jpg");
+   height:100%;
+   margin-bottom:5px;
+}

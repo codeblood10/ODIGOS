@@ -1,0 +1,26 @@
+
+#notification{
+               color:DodgerBlue ;
+               font-size:15px;
+}
+
+
+#odi{
+    font-size: 29px;
+    color:#004080;
+    margin-top: -54px;
+    margin-left: 26px;
+    font-weight: bold;
+}
+
+#gap{
+	font-size: 20px;
+    padding-right: 9px;
+    margin-top: -52px;
+    margin-bottom: 5px;
+}
+
+.container-fluid{
+	padding-left:0px; 
+	padding-right:0px;
+}
