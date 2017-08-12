@@ -1,0 +1,13 @@
+#footer{
+   background:url("footer.jpg");
+   height:100%;
+   margin-top:80px;
+   margin-bottom:0px;
+}
+
+#contact {
+   font-size:35px;
+   text-shadow: 4px 4px 5px #000000;
+   color:gray;
+   margin-top: 3px;
+}
